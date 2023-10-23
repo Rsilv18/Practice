@@ -1,1 +1,2 @@
-# Practice We are working on setting up a practice page for better understaning of how this program works
+# Practice We are working on setting up a practice page for better understanding of how this program works
+What is a second line on a read me
