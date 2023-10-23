@@ -2,6 +2,8 @@ This is intended as a quick reference and showcase. For more complete info, see 
 
 Note that there is also a [Cheatsheet specific to Markdown Here](./Markdown-Here-Cheatsheet) if that's what you're looking for. You can also check out [more Markdown tools](./Other-Markdown-Tools).
 
+![krusty-krab-sparkle](https://github.com/Rsilv18/Practice/assets/142816909/a678690d-c9cb-4766-be99-8f42559b49e2)
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmduYzRzZ2dydWgzNWttOG85cTdwamN2dnhkbTFsamduazkxaHo1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUXYcgCwvCm4cKcrI3/giphy.gif" alt="" />
 
 ##### Table of Contents  
